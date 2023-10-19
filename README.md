@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ivanaragusa](https://www.linkedin.com/in/ivanaragusa)
 
-- ⚡ Fun fact **I left my career at H&S after 13 years of working and studying when I discovered how much I enjoyed coding**
+- ⚡ Fun fact **I left my career at H&S after 13 years of working and studying when I discovered how much I enjoyed coding and sometimes my rabbit growls...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
