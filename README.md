@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ivana</h1>
 <h3 align="center">A super energetic developer from Naples (IT), settled in Florence (IT)</h3>
-![images](https://github.com/IvanaRagusa/IvanaRagusa/assets/115358202/5486ad20-17bd-4877-ac61-3e589d00308d)
+
 - 🔭 I’m currently working on **c++ projects**
 
 - 🌱 I’m currently learning **c++, java**
 
-
-- 📫 How to reach me **tdp.ragusa@gmail.com**
+![](https://github.com/IvanaRagusa/IvanaRagusa/assets/115358202/5486ad20-17bd-4877-ac61-3e589d00308d)- 📫 How to reach me **tdp.ragusa@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ivanaragusa](https://www.linkedin.com/in/ivanaragusa)
 
