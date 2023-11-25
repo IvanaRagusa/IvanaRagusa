@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivana</h1>
 <h3 align="center">A super energetic developer from Naples (IT), settled in Florence (IT)</h3>
 
-![](https://github.com/IvanaRagusa/IvanaRagusa/assets/115358202/1ec5e776-eba8-4821-941f-f3f863ee9043)
-
 - 🔭 I’m currently working on **c++ projects**
 
 - 🌱 I’m currently learning **c++, java**
@@ -23,3 +21,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+                                                                                ![](https://github.com/IvanaRagusa/IvanaRagusa/assets/115358202/1ec5e776-eba8-4821-941f-f3f863ee9043)
