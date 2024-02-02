@@ -13,7 +13,7 @@
 -  🐰 sometimes my rabbit growls...
 
 
-<a href="mailto:tua1@email.com,tua2@email.com">
+<a href="mailto:tdp.ragusa@gmail.com">
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left"> <a href="mailto:tdp.ragusa@gmail.com" target="blank"> <img align="center" src=https://github.com/IvanaRagusa/IvanaRagusa/assets/115358202/fc04eaa7-272b-4b34-9e67-b5e7592bc36e width="40" height="40"/></a> <a href="https://www.linkedin.com/in/ivanaragusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivanaragusa" height="30" width="40" /> </a> 
