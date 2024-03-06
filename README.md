@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ivana</h1>
 <h3 align="center"> <a href="https://www.linkedin.com/in/ivanaragusa" target="blank"><img align="center" src="https://github.com/IvanaRagusa/IvanaRagusa/assets/115358202/88f535b4-2aa1-4aba-986d-1bdcf5da63d2" alt="https://www.linkedin.com/in/ivanaragusa" height="120" width="120" /> </a> A super energetic developer from Naples (IT), settled in Florence (IT)</h3>
 
-- 🔭 I’m currently working on **c++ projects**
+- 🔭 Hey there! I'm a Research Fellow at the Biorobothic Department of the University of Florence, where I get to dive into some pretty fascinating stuff! 🤖
 
-- 🌱 I’m currently learning **c++, java**
-
-- 📫 How to reach me <a href="mailto:tdp.ragusa@gmail.com" target="blank">**tdp.ragusa@gmail.com**</a>
+- 🌱 Right now, I'm deeply engaged in the realm of software development, tinkering with **C++, Java, and C#**. Specifically, I'm collaborating with the University of Florence on 
+     European software projects focusing on **DevOps** and **Kubernetes** architectures.
+  
+- 📫 How to reach me <a href="mailto:ivana.ragusa@unifi.it" target="blank">**ivana.ragusa@unifi.it**</a>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ivanaragusa](https://www.linkedin.com/in/ivanaragusa)
 
