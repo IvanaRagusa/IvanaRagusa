@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ivana, but everyone calls me Nelly – don't ask why!</h1>
+<h2 align="center">Hi 👋, I'm Ivana but everyone calls me Nelly – don't ask why!</h2>
 <h3 align="center"> <a href="https://www.linkedin.com/in/ivanaragusa" target="blank"><img align="center" src="https://github.com/IvanaRagusa/IvanaRagusa/assets/115358202/88f535b4-2aa1-4aba-986d-1bdcf5da63d2" alt="https://www.linkedin.com/in/ivanaragusa" height="120" width="120" /> </a> from Naples (IT), settled in Florence (IT)</h3>
 
-- 🔭 Hey there! I'm a PhD student and Research Fellow at the Biomedical and robotics Department of the University of Florence, where I get to dive into some pretty fascinating stuff! 🤖
+- 🔭I'm a PhD student and Research Fellow at the Biomedical and robotics Department of the University of Florence, where I get to dive into some pretty fascinating stuff! 🤖
 
 - 🌱 Right now, I'm deeply engaged in the realm of software development, tinkering with **C++, Java, and C#**. Specifically, I'm collaborating with the University of Florence on 
      European software projects focusing on **DevOps** and **Kubernetes** architectures.
